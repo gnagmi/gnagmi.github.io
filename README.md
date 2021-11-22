@@ -1,0 +1,2 @@
+# gnagmi.github.io
+blog
